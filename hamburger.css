@@ -70,14 +70,14 @@ input[type="checkbox"]:checked~.list-menu
 
 
 input[type="checkbox"]:checked~.line2{
-    /*opacity: 0;*/
+    opacity: 0;
 }
 
 input[type="checkbox"]:checked~.line1 {
-    transform: rotate(16deg)translate(30%,30%);
+    transform: rotate(45deg)translate(30%,30%);
     
 }
 input[type="checkbox"]:checked~.line3{
-    transform: rotate(-16deg)translate(30%,-30%);
+    transform: rotate(-45deg)translate(30%,-30%);
     
 } 
