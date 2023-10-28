@@ -16,8 +16,8 @@
 }
 .container .item{
     flex: 0 0 100%;
-    padding: 24px;
-    border-radius: 8px;
+    padding: 30px;
+    border-radius: 10px;
     scroll-snap-align: start;
 
 }
